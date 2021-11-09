@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To Do List
+# Leaderboard
 
 > Project for organizeing your tasks.
 
