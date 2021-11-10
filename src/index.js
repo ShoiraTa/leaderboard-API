@@ -26,17 +26,17 @@ document.getElementById('submit').addEventListener('click', async (e) => {
   if (userName.value !== '' && userscoreint !== '' && userscoreint) {
     await leaderboard.addScore(userName.value, userScore.value);
     success.innerHTML = 'Your score has been added';
+    userName.value = '';
+    userScore.value = '';
     setTimeout(() => {
       success.innerHTML = '';
-      userName.value = '';
-      userScore.value = '';
     }, 1500);
   } else {
     success.innerHTML = 'Username and userscore should be vailid, please try again';
+    userName.value = '';
+    userScore.value = '';
     setTimeout(() => {
       success.innerHTML = '';
-      userName.value = '';
-      userScore.value = '';
     }, 1500);
   }
 });
