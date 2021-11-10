@@ -65,3 +65,7 @@ button {
 .align-center {
   align-items: center;
 }
+
+.red {
+  color: red;
+}
