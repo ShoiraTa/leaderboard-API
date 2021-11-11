@@ -2,18 +2,20 @@
 
 # To Do List
 
-> Project for organizeing your tasks.
+> Sending and receiving data from/to the Leaderboard API
+> The leaderboard website displays scores submitted by different players. All data is preserved thanks to the external Leaderboard API service.
 
 ## Built With
 
 - HTML & CSS
 - JavaScript
 - Webpack
-- API
+- REST API
 
 ## Live Demo
 
-[Live Demo Link]
+[Live Demo Link](https://shoirata.github.io/leaderboard/)
+![](demo.gif)
 
 ## Getting Started
 
@@ -21,7 +23,13 @@ To get a local copy up and running follow these simple example steps.
 
 - go to the directory that you want to clone the repository in.
 - right click and choose Git Bash here.
-- type "git clone https://github.com/ShahierNashaat/to-do-list.git".
+- type "git clone https://github.com/ShoiraTa/leaderboard.git".
+- run `npm install` to install all the dependencies
+- Run `npm start` to bundle the files in the src folder
+
+or
+
+- Go to the dist folder and open index.html
 
 ## Authors
 
