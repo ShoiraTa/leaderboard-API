@@ -14,6 +14,7 @@
 
 ## Live Demo
 
+[Live demo](https://shoirata.github.io/leaderboard/)
 ![](demo.gif)
 
 ## Getting Started
