@@ -4,6 +4,7 @@
   "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "main": "index.js",
   "private": true,
+  "homepage": "https://shoirata.github.io/leaderboard/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
@@ -21,7 +22,6 @@
   "bugs": {
     "url": "https://github.com/ShoiraTa/leaderboard/issues"
   },
-  "homepage": "https://github.com/ShoiraTa/leaderboard#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.5.1",
