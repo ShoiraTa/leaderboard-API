@@ -2,18 +2,19 @@
 
 # Leaderboard
 
-> Project for organizeing your tasks.
+> Sending and receiving data from/to the Leaderboard API
+> The leaderboard website displays scores submitted by different players. All data is preserved thanks to the external Leaderboard API service.
 
 ## Built With
 
 - HTML & CSS
 - JavaScript
 - Webpack
-- API
+- REST API
 
 ## Live Demo
 
-[Live Demo Link]
+![](demo.gif)
 
 ## Getting Started
 
@@ -21,7 +22,13 @@ To get a local copy up and running follow these simple example steps.
 
 - go to the directory that you want to clone the repository in.
 - right click and choose Git Bash here.
-- type "git clone https://github.com/ShahierNashaat/to-do-list.git".
+- type "git clone https://github.com/ShoiraTa/leaderboard.git".
+- run `npm install` to install all the dependencies
+- Run `npm start` to bundle the files in the src folder
+
+or
+
+- Go to the dist folder and open index.html
 
 ## Authors
 
@@ -35,17 +42,9 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
