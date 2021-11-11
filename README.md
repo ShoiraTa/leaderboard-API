@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To Do List
+# Leaderboard
 
 > Sending and receiving data from/to the Leaderboard API
 > The leaderboard website displays scores submitted by different players. All data is preserved thanks to the external Leaderboard API service.
